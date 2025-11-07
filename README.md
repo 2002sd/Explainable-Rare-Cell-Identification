@@ -31,7 +31,7 @@ This framework serves as both a discovery tool and a validation method, enabling
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/Explainable-Rare-Cell-Identification.git
+git clone https://github.com/2002sd/Explainable-Rare-Cell-Identification.git
 cd Explainable-Rare-Cell-Identification
 
 # We recommend using a Conda environment
