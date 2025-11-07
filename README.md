@@ -40,9 +40,3 @@ conda activate rare_cell_env
 
 # Install dependencies
 pip install -r requirements.txt```
-
-## Usage
-
-(Here you can add a brief example of how to run your code, e.g., how to reproduce a key figure from the paper)
-
-...
