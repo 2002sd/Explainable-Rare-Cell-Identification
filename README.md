@@ -25,7 +25,7 @@ This project introduces a novel framework for **explainable rare cell identifica
 
 This framework serves as both a discovery tool and a validation method, enabling researchers to move from simple detection to a deeper, interpretable understanding of cellular heterogeneity.
 
-<!-- ![Framework Pipeline](pipeline.png) -->
+ ![Framework Pipeline](pipeline.png) 
 
 ## Installation
 
