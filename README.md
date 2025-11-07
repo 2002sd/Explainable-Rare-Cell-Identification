@@ -13,7 +13,7 @@ Single-Cell Transcriptomics Data]**
 
 ## Overview
 
-Identifying rare cell types in single-cell transcriptomics is crucial for understanding complex biological systems, but current methods often act as "black boxes." They can flag a cell as rare but cannot explain *why* in terms of specific genes. This limitation is frequently caused by dimensionality reduction techniques like PCA, which obscure the underlying biological signals.
+Identifying rare cell types in single-cell transcriptomics is crucial for understanding complex biological systems, but current methods often act as ``black boxes." They can flag a cell as rare but cannot explain *why* in terms of specific genes. This limitation is frequently caused by dimensionality reduction techniques like PCA, which obscure the underlying biological signals.
 
 This project introduces a novel framework for **explainable rare cell identification**. Our approach bypasses the problematic PCA step and operates directly on high-dimensional gene expression data. It is designed not only to accurately detect rare cells but also to provide intuitive, visual, and gene-level explanations for both anomalous and typical cells.
 
